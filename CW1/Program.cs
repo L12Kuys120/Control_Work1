@@ -17,7 +17,7 @@ string[] arr = new string[P];
 for (int i = 0; i < P; i++)
 {
     int j = new Random().Next(0, N - 1);
-    arr[i] = array[j]; //Выборка Р-элементов
+    arr[i] = array[j];           //Выборка Р-элементов
 }
 
 
