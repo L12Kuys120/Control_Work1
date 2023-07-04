@@ -11,10 +11,15 @@ Console.WriteLine("");
 Console.WriteLine("[" + string.Join(" ", array) + "]");  //вывод массива в строку 
 Console.WriteLine("");
 
-int P = new Random().Next(0, 3); 
+int P = new Random().Next(0, 3);
 string[] arr = new string[P];
 
-for (int i = 0; i < P; i++) arr[i] = array[i]; //Выборка Р-элементов
+for (int i = 0; i < P; i++)
+{
+    int j = new Random().Next(0, N - 1);
+    arr[i] = array[j]; //Выборка Р-элементов
+}
 
-Console.WriteLine("[" + string.Join(" ", arr) + "]"); 
+
+Console.WriteLine("[" + string.Join(" ", arr) + "]");
 Console.WriteLine("");

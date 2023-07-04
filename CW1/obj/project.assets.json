@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EL-pr-S\\Documents\\GB\\Control_Work1\\CW1\\CW1.csproj",
+      "projectUniqueName": "C:\\Users\\EL-pr-S\\Documents\\ДЗ\\Control Work\\Control_Work1\\CW1\\CW1.csproj",
       "projectName": "CW1",
-      "projectPath": "C:\\Users\\EL-pr-S\\Documents\\GB\\Control_Work1\\CW1\\CW1.csproj",
+      "projectPath": "C:\\Users\\EL-pr-S\\Documents\\ДЗ\\Control Work\\Control_Work1\\CW1\\CW1.csproj",
       "packagesPath": "C:\\Users\\EL-pr-S\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EL-pr-S\\Documents\\GB\\Control_Work1\\CW1\\obj\\",
+      "outputPath": "C:\\Users\\EL-pr-S\\Documents\\ДЗ\\Control Work\\Control_Work1\\CW1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EL-pr-S\\AppData\\Roaming\\NuGet\\NuGet.Config"
